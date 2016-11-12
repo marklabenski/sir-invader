@@ -1,5 +1,5 @@
 import { createInvader, emptyAppearance, calculateInvaderCosts } from './invader/invader';
-import { exportSvg } from './invader/export-svg';
+import exportSvg from './invader/export-svg';
 
 export default {
   createInvader: createInvader,
