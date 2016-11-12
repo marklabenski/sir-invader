@@ -1,7 +1,5 @@
 import createInvader from './invader/invader.js';
 
-const Invader = {
+export default {
   createInvader: createInvader,
-};
-
-export default Invader
+}
