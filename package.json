@@ -2,9 +2,9 @@
   "name": "sir-invader",
   "version": "0.1.4",
   "description": "The invader package defines all properties and methods for importing/exporing invader between the sir-invader-editor and the game",
-  "main": "dist/main.bundle.js",
+  "main": "target/main.js",
   "files": [
-    "dist/main.bundle.js"
+    "target"
   ],
   "scripts": {
     "test": "gulp test"
