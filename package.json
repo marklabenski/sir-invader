@@ -1,6 +1,6 @@
 {
   "name": "sir-invader",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "The invader package defines all properties and methods for importing/exporing invader between the sir-invader-editor and the game",
   "main": "target/main.js",
   "files": [
