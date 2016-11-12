@@ -15,3 +15,5 @@ describe('exportSvg', function() {
     });
   });
 });
+
+export default {}
