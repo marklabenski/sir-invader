@@ -13,7 +13,7 @@ const exportSvg = function(invader) {
     const row = Math.floor(index / 9);
 
     return svgString + '<rect x="' + col + '" y="' + row + '" width="1" height="1" style="fill:' + color + '; stroke-width:0" />\n';
-  }, '<svg width="9" height="9">\n');
+  }, '<svg viewBox="0 0 9 9">\n');
   return svg + '</svg>';
 };
 
